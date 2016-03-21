@@ -24,4 +24,11 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)buttonLoadUnityClicked:(UIButton *)sender
+{
+    UIView *unityView = UnityGetGLView();
+    unityView.frame = self.view.frame;
+    [self.view addSubview:unityView];
+}
+
 @end

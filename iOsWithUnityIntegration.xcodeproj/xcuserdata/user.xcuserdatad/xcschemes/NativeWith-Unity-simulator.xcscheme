@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CE36C9F61CA0893100ED1882"
-               BuildableName = "NativeWith-Unity-simulator.app"
-               BlueprintName = "NativeWith-Unity-simulator"
-               ReferencedContainer = "container:NativeWith-Unity-simulator.xcodeproj">
+               BuildableName = "iOsWithUnityIntegration.app"
+               BlueprintName = "iOsWithUnityIntegration"
+               ReferencedContainer = "container:iOsWithUnityIntegration.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CE36C9F61CA0893100ED1882"
-            BuildableName = "NativeWith-Unity-simulator.app"
-            BlueprintName = "NativeWith-Unity-simulator"
-            ReferencedContainer = "container:NativeWith-Unity-simulator.xcodeproj">
+            BuildableName = "iOsWithUnityIntegration.app"
+            BlueprintName = "iOsWithUnityIntegration"
+            ReferencedContainer = "container:iOsWithUnityIntegration.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CE36C9F61CA0893100ED1882"
-            BuildableName = "NativeWith-Unity-simulator.app"
-            BlueprintName = "NativeWith-Unity-simulator"
-            ReferencedContainer = "container:NativeWith-Unity-simulator.xcodeproj">
+            BuildableName = "iOsWithUnityIntegration.app"
+            BlueprintName = "iOsWithUnityIntegration"
+            ReferencedContainer = "container:iOsWithUnityIntegration.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CE36C9F61CA0893100ED1882"
-            BuildableName = "NativeWith-Unity-simulator.app"
-            BlueprintName = "NativeWith-Unity-simulator"
-            ReferencedContainer = "container:NativeWith-Unity-simulator.xcodeproj">
+            BuildableName = "iOsWithUnityIntegration.app"
+            BlueprintName = "iOsWithUnityIntegration"
+            ReferencedContainer = "container:iOsWithUnityIntegration.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
